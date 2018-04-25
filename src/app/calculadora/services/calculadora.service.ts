@@ -6,7 +6,6 @@
  * @since 1.0.0
  */
 
-
 import { Injectable } from '@angular/core';
 
 @Injectable()
